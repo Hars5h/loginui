@@ -1,0 +1,121 @@
+
+.first{
+    /* border:2px solid red; */
+  display: flex;   
+    height: 600px;
+    width: 100%; 
+    border-radius: 0px;
+    margin-top: 50px;
+}
+.seccond{
+   
+    height: 600px;
+    width: 50%;
+    background: #007E94;
+
+    
+}
+.third{
+   
+    height: 600px;
+    width: 50%;
+   border-radius: 0px;
+   background:  #F5F5F5;
+}
+.inner{
+    /* border:2px solid red; */
+    height:500px;
+    width:80%;
+    border-radius: 52px;
+    position:absolute;
+    margin-top:40px;
+    margin-left:34px;
+    display:flex;
+    border: 15px solid rgba(255, 255, 255, 0.30);
+    filter: drop-shadow(7px 14px 4px rgba(0, 0, 0, 0.25));
+   
+}
+.picture{
+/* border:2px solid black; */
+height:500px;
+width:50%;
+text-align: center;
+padding: 80px;
+position: relative;
+   
+}
+.log
+{ 
+height:480px;
+width:50%;
+padding:50px;
+
+
+}
+.img{
+height:253px;
+width:253px ;
+/* position: relative;
+/* margin-top:8%;
+margin-left:11%; */
+/* left: 175px;
+top: 70px; */ 
+
+}
+.p{
+   font-weight: 200;
+   font-size: 30px;
+   color: #F5F5F5;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.label{
+    font-family: 'Mulish';
+     font-style: normal;  
+      font-weight: 700; 
+    font-size: 12px; 
+    line-height: 15px;
+    letter-spacing: 0.3px;
+     text-transform: uppercase;
+  color: #5F5F5F;
+}
+/* .frm{
+    box-sizing: border-box;
+} */
+.sign{
+    width:80%;
+    height:30%;
+    padding: 5px;
+    background: #007E94;
+    text-align: center;
+    border-radius: 8px;
+    color:#F5F5F5;
+}
+.submit{
+    width:80%;
+    height:30%;
+    color:#F5F5F5;
+    padding: 5px;
+    background: linear-gradient(0deg, #233142, #233142),
+linear-gradient(0deg, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8));
+
+    /* text-align: center; */
+    border-radius: 8px;
+    display: flex;
+}
+.text{
+    width:80%;
+    height:30%;
+    /* text-align: center; */  
+    margin-left: 50px;
+
+}
+.gle{
+    width:10%;
+    height:30%;
+    margin-left: 10%;
+    /* position: relative; */
+    /* border:2px solid red; */
+}
+
+
+
